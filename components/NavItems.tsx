@@ -5,7 +5,7 @@ import React from 'react'
 
 const navItems = [
     { label: "Home", href: "/" },
-    { label: "Companion", href: "/companion" },
+    { label: "Companion", href: "/companions" },
     { label: "Profile", href: "/my-journey" },
 ]
 

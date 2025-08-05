@@ -1,8 +1,8 @@
-import { Link } from 'lucide-react'
 import Image from 'next/image'
 import React from 'react'
 import NavItems from './NavItems'
 import { SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs"
+import Link from 'next/link'
 
 function Navbar() {
     return (
